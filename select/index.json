@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "base_track": "Throw Away Your Television",
+  "base_artist": "Red Hot Chili Peppers",
+  "createdAt": "2026-02-14T12:23:24.622010Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Throw Away Your Television",
+      "artist": "Red Hot Chili Peppers",
+      "has_synced": true,
+      "path": "select/01_Throw_Away_Your_Television_Red_Hot_Chili_Peppers.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Throw Away Your Television",
+      "artist": "Red Hot Chilli Peppers",
+      "has_synced": true,
+      "path": "select/02_Throw_Away_Your_Television_Red_Hot_Chilli_Peppers.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Throw Away Your Television",
+      "artist": "Red Hot Chili Peppers",
+      "has_synced": false,
+      "path": "select/03_Throw_Away_Your_Television_Red_Hot_Chili_Peppers.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Throw Away Your Television",
+      "artist": "Red Hot Chili Peppers",
+      "has_synced": true,
+      "path": "select/04_Throw_Away_Your_Television_Red_Hot_Chili_Peppers.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Throw Away Your Television",
+      "artist": "Red Hot Chili Peppers",
+      "has_synced": false,
+      "path": "select/05_Throw_Away_Your_Television_Red_Hot_Chili_Peppers.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Throw away your television",
+      "artist": "red hot chili papers",
+      "has_synced": true,
+      "path": "select/06_Throw_away_your_television_red_hot_chili_papers.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Throw Away (...Your Television) (demo)",
+      "artist": "Red Hot Chili Peppers",
+      "has_synced": true,
+      "path": "select/07_Throw_Away_(...Your_Television)_(demo)_Red_Hot_Chili_Peppers.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Throw Away Your Television",
+      "artist": "The Red Hot Chili Peppers",
+      "has_synced": true,
+      "path": "select/08_Throw_Away_Your_Television_The_Red_Hot_Chili_Peppers.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Throw Away Your Television",
+      "artist": "Red Hot Chili Peppers",
+      "has_synced": false,
+      "path": "select/pl_01_Throw_Away_Your_Television_Red_Hot_Chili_Peppers.txt"
+    }
+  ]
+}
